@@ -15,5 +15,3 @@ Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using th
 ## Resources
 
 [W3C CSS Validator - Validate Direct Input](http://jigsaw.w3.org/css-validator/#validate_by_input)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-issue-bot-9000' title='CSS Issue Bot 9000'>CSS Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
